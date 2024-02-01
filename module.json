@@ -25,7 +25,7 @@
     }
   ],
   "url": "https://frialigan.se/",
-  "manifest": "https://github.com/SanctifiedDevil/symbaroum5ecore/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/SanctifiedDevil/symbaroum5ecore/master/module.json",
   "download": "https://github.com/SanctifiedDevil/symbaroum5ecore/archive/refs/heads/master.zip",
   "authors": [
     {
